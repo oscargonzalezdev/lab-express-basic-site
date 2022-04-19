@@ -1,0 +1,26 @@
+html {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#homeh1 {
+    font-style: oblique;
+    font-stretch:extra-expanded;
+    font-size: 4vw;
+}
+
+#abouth1 {
+    font-style: italic;
+    font-size: 2vw;;
+}
+
+#homeImg {
+    width: 40vw;;
+}
