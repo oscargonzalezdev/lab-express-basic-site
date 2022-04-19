@@ -1,6 +1,6 @@
 html {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(194, 121, 176);
+    background-color: rgb(194, 121, 139);
 }
 
 body {
@@ -17,9 +17,9 @@ ul {
     font-size: 4vw;
 }
 
-#abouth1 {
+#abouth1, #worksh1 {
     font-style: italic;
-    font-size: 2vw;;
+    font-size: 3vw;;
 }
 
 #homeImg {
